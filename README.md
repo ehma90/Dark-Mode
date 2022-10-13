@@ -20,7 +20,7 @@
 
 ## Vercel Deployment
 
-Deployed on [Vercel](https://githubfinder-app-two.vercel.app/) 
+Deployed on [Vercel](https://dark-mode-eight-iota.vercel.app/) 
 
 ## Show your support
 
